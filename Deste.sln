@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deste.Api", "Deste.Api\Deste.Api.csproj", "{CF56DDAD-EA28-41FF-940F-AD4016E967AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deste.Domain", "Deste.Domain\Deste.Domain.csproj", "{472533E0-077C-40E6-B21D-6E062CD5E01C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deste.Infrastructure.Ef", "Deste.Infrastructure.Ef\Deste.Infrastructure.Ef.csproj", "{48060A54-2352-4406-BF3E-5B5A43FC6480}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF56DDAD-EA28-41FF-940F-AD4016E967AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF56DDAD-EA28-41FF-940F-AD4016E967AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF56DDAD-EA28-41FF-940F-AD4016E967AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF56DDAD-EA28-41FF-940F-AD4016E967AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{472533E0-077C-40E6-B21D-6E062CD5E01C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{472533E0-077C-40E6-B21D-6E062CD5E01C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{472533E0-077C-40E6-B21D-6E062CD5E01C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{472533E0-077C-40E6-B21D-6E062CD5E01C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48060A54-2352-4406-BF3E-5B5A43FC6480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48060A54-2352-4406-BF3E-5B5A43FC6480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48060A54-2352-4406-BF3E-5B5A43FC6480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48060A54-2352-4406-BF3E-5B5A43FC6480}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
